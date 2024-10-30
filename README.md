@@ -1,8 +1,8 @@
-<h1 align="left">Hi </h1>
+<h1 align="left">Greetings </h1>
 
 ###
 
-<p align="left">My name is Sharven and I am a Software Engineer who is passionate about Data Science, Statistics and Machine Learning</p>
+<p align="left">My name is Sharven and I am a Data Scientist & Analyst who is passionate about Data Science, Statistics, and Machine Learning</p>
 
 ###
 
