@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🚀 Coding dreams into reality, one repository at a time. Let's build brilliance together! 💻✨<br>📚 I'm currently learning advanced analytical and data science skills with the help of programming and math<br>🎯 Goals: I aspire to be a Data Analyst/ Scientist<br>🎲 "I enjoy playing the guitar, exercising, cooking, and traveling."</p>
+<p align="left">🚀 Coding dreams into reality, one repository at a time. Let's build brilliance together! 💻✨<br>📚 I'm currently learning advanced analytical and data science skills with the help of programming and math<br>🎯 Goals: I aspire to be a Senior Data Analyst/ Scientist<br>🎲 "I enjoy playing the guitar, exercising, cooking, and traveling."</p>
 
 ###
 
