@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Sharven and I am a Data Scientist & Analyst who is passionate about Data Science, Statistics, and Machine Learning</p>
+<p align="left">My name is Sharven and I am a Data Scientist & Analyst who is passionate about Data Science, Statistics, Artifical Intelligence and Machine Learning</p>
 
 ###
 
