@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sharven%20Rane&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=ML%20Engineer%20%7C%20Computer%20Vision%20%7C%20Medical%20AI&descAlignY=52&descSize=16"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sharven%20Rane&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Scientist%20%7C%20Computer%20Vision%20%7C%20Deep%20Learning&descAlignY=52&descSize=16"/>
 </div>
 
 <br/>
@@ -9,7 +9,7 @@ I build production computer vision and deep learning systems. Currently at **Vet
 My focus spans self-supervised learning, foundation models, vision-language models, generative models, and MLOps. I care about the full stack: from pretraining and architecture design to optimized inference in production.
 
 ```yaml
-currently  : ML Engineer @ Vetology Innovations, Chicago
+currently  : Data Scientist @ Vetology Innovations, Chicago
 building   : foundation models, vision-language systems, production CV pipelines
 background : MS Data Science, Stevens Institute of Technology
 interests  : SSL pretraining · vision-language · generative models · efficient inference
