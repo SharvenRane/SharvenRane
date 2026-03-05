@@ -42,56 +42,56 @@ interests  : SSL pretraining · vision-language · generative models · efficien
 <tr>
 <td width="50%">
 
-**Medical AI**
-
-[medical-image-segmentation](https://github.com/SharvenRane/medical-image-segmentation): UNet++, DeepLabV3+, SegFormer end-to-end on radiograph datasets
-
-[medical-foundation-model](https://github.com/SharvenRane/medical-foundation-model): SSL pretraining on 100K+ medical images, linear probe evaluation suite
-
-[medsam-finetuning](https://github.com/SharvenRane/medsam-finetuning): SAM2 adapted for medical segmentation with prompt engineering
-
-[federated-learning-medical](https://github.com/SharvenRane/federated-learning-medical): privacy-preserving FL across simulated hospital splits
-
-</td>
-<td width="50%">
-
 **Self-Supervised & Foundation Models**
 
 [ssl-comparison](https://github.com/SharvenRane/ssl-comparison): BYOL, SimCLR, MAE, DINOv2, MoCo on the same datasets, apples to apples
 
 [mae-pretraining](https://github.com/SharvenRane/mae-pretraining): MAE from scratch with reconstruction visualization
 
-[dinov2-finetuning](https://github.com/SharvenRane/dinov2-finetuning): DINOv2 adapted to medical, satellite, and industrial domains
+[medical-foundation-model](https://github.com/SharvenRane/medical-foundation-model): domain-specific foundation model pretrained on 100K+ images
 
 [ijepa-implementation](https://github.com/SharvenRane/ijepa-implementation): clean I-JEPA implementation
+
+</td>
+<td width="50%">
+
+**Vision-Language & Multimodal**
+
+[llava-medical-vqa](https://github.com/SharvenRane/llava-medical-vqa): LLaVA fine-tuned for domain-specific visual Q&A
+
+[clip-finetuning](https://github.com/SharvenRane/clip-finetuning): domain-specific CLIP/SigLIP fine-tuning with zero-shot evaluation
+
+[vlm-comparison](https://github.com/SharvenRane/vlm-comparison): LLaVA vs InternVL vs Qwen-VL vs PaLiGemma benchmarked
+
+[visual-rag](https://github.com/SharvenRane/visual-rag): retrieval-augmented generation using image embeddings
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-**Vision-Language**
+**Generative Models**
 
-[llava-medical-vqa](https://github.com/SharvenRane/llava-medical-vqa): LLaVA fine-tuned for radiology visual Q&A
+[diffusion-model-from-scratch](https://github.com/SharvenRane/diffusion-model-from-scratch): DDPM from scratch with full training pipeline
 
-[clip-finetuning](https://github.com/SharvenRane/clip-finetuning): domain-specific CLIP/SigLIP fine-tuning with zero-shot evaluation
+[diffusion-transformer](https://github.com/SharvenRane/diffusion-transformer): DiT implementation with scalable architecture experiments
 
-[radiology-report-generator](https://github.com/SharvenRane/radiology-report-generator): automated report generation from chest X-rays
+[controlnet-finetuning](https://github.com/SharvenRane/controlnet-finetuning): ControlNet fine-tuning for conditioned image generation
 
-[vlm-comparison](https://github.com/SharvenRane/vlm-comparison): LLaVA vs InternVL vs Qwen-VL vs PaLiGemma benchmarked
+[gan-progression](https://github.com/SharvenRane/gan-progression): DCGAN to StyleGAN2 progression with training stability
 
 </td>
 <td width="50%">
 
-**Computational Pathology**
+**Detection, Tracking & Segmentation**
 
-[whole-slide-image-pipeline](https://github.com/SharvenRane/whole-slide-image-pipeline): OpenSlide to slide-level prediction, full MIL pipeline
+[yolo-benchmark](https://github.com/SharvenRane/yolo-benchmark): YOLOv8 vs v9 vs v10 vs YOLO-World speed/accuracy benchmark
 
-[cancer-survival-prediction](https://github.com/SharvenRane/cancer-survival-prediction): CLAM and TransMIL on TCGA for survival outcomes
+[medical-image-segmentation](https://github.com/SharvenRane/medical-image-segmentation): UNet++, DeepLabV3+, SegFormer end-to-end pipeline
 
-[pathology-foundation-models](https://github.com/SharvenRane/pathology-foundation-models): UNI, CONCH, PLIP, Prov-GigaPath benchmarked
+[sam2-finetuning](https://github.com/SharvenRane/sam2-finetuning): SAM2 fine-tuned on custom domains with prompt strategies
 
-[weakly-supervised-pathology](https://github.com/SharvenRane/weakly-supervised-pathology): ABMIL, DSMIL, attention pooling compared
+[open-vocabulary-detection](https://github.com/SharvenRane/open-vocabulary-detection): Grounding DINO and YOLO-World for zero-shot detection
 
 </td>
 </tr>
