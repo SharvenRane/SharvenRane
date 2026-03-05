@@ -4,15 +4,15 @@
 
 <br/>
 
-I build production computer vision systems for medical imaging. Currently at **Vetology Innovations** in Chicago, where I've taken models from raw research ideas to deployed production infrastructure serving real clinical workflows. Over 50 models shipped across classification, detection, and segmentation on veterinary radiographs, trained on A100s with 400K+ images.
+I build production computer vision and deep learning systems. Currently at **Vetology Innovations** in Chicago, where I've taken models from raw research ideas to deployed production infrastructure at scale. Over 50 models shipped across classification, detection, and segmentation, trained on A100s with 400K+ images.
 
-My focus right now is at the intersection of self-supervised learning and medical AI: getting strong representations out of scarce labeled data, and pushing that toward foundation models for clinical imaging. I'm also deep into vision-language models and what they unlock for radiology.
+My focus spans self-supervised learning, foundation models, vision-language models, generative models, and MLOps. I care about the full stack: from pretraining and architecture design to optimized inference in production.
 
 ```yaml
 currently  : ML Engineer @ Vetology Innovations, Chicago
-building   : medical foundation models, VLMs for radiology, production segmentation pipelines
+building   : foundation models, vision-language systems, production CV pipelines
 background : MS Data Science, Stevens Institute of Technology
-interests  : SSL pretraining · medical AI · vision-language · efficient inference
+interests  : SSL pretraining · vision-language · generative models · efficient inference
 ```
 
 <br/>
