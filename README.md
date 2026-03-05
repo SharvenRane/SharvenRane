@@ -6,7 +6,7 @@
 
 I build production computer vision systems for medical imaging. Currently at **Vetology Innovations** in Chicago, where I've taken models from raw research ideas to deployed production infrastructure serving real clinical workflows. Over 50 models shipped across classification, detection, and segmentation on veterinary radiographs, trained on A100s with 400K+ images.
 
-My focus right now is at the intersection of self-supervised learning and medical AI — getting strong representations out of scarce labeled data, and pushing that toward foundation models for clinical imaging. I'm also deep into vision-language models and what they unlock for radiology.
+My focus right now is at the intersection of self-supervised learning and medical AI: getting strong representations out of scarce labeled data, and pushing that toward foundation models for clinical imaging. I'm also deep into vision-language models and what they unlock for radiology.
 
 ```yaml
 currently  : ML Engineer @ Vetology Innovations, Chicago
@@ -44,26 +44,26 @@ interests  : SSL pretraining · medical AI · vision-language · efficient infer
 
 **Medical AI**
 
-[medical-image-segmentation](https://github.com/SharvenRane/medical-image-segmentation) — UNet++, DeepLabV3+, SegFormer end-to-end on radiograph datasets
+[medical-image-segmentation](https://github.com/SharvenRane/medical-image-segmentation): UNet++, DeepLabV3+, SegFormer end-to-end on radiograph datasets
 
-[medical-foundation-model](https://github.com/SharvenRane/medical-foundation-model) — SSL pretraining on 100K+ medical images, linear probe evaluation suite
+[medical-foundation-model](https://github.com/SharvenRane/medical-foundation-model): SSL pretraining on 100K+ medical images, linear probe evaluation suite
 
-[medsam-finetuning](https://github.com/SharvenRane/medsam-finetuning) — SAM2 adapted for medical segmentation with prompt engineering
+[medsam-finetuning](https://github.com/SharvenRane/medsam-finetuning): SAM2 adapted for medical segmentation with prompt engineering
 
-[federated-learning-medical](https://github.com/SharvenRane/federated-learning-medical) — privacy-preserving FL across simulated hospital splits
+[federated-learning-medical](https://github.com/SharvenRane/federated-learning-medical): privacy-preserving FL across simulated hospital splits
 
 </td>
 <td width="50%">
 
 **Self-Supervised & Foundation Models**
 
-[ssl-comparison](https://github.com/SharvenRane/ssl-comparison) — BYOL, SimCLR, MAE, DINOv2, MoCo on the same datasets, apples to apples
+[ssl-comparison](https://github.com/SharvenRane/ssl-comparison): BYOL, SimCLR, MAE, DINOv2, MoCo on the same datasets, apples to apples
 
-[mae-pretraining](https://github.com/SharvenRane/mae-pretraining) — MAE from scratch with reconstruction visualization
+[mae-pretraining](https://github.com/SharvenRane/mae-pretraining): MAE from scratch with reconstruction visualization
 
-[dinov2-finetuning](https://github.com/SharvenRane/dinov2-finetuning) — DINOv2 adapted to medical, satellite, and industrial domains
+[dinov2-finetuning](https://github.com/SharvenRane/dinov2-finetuning): DINOv2 adapted to medical, satellite, and industrial domains
 
-[ijepa-implementation](https://github.com/SharvenRane/ijepa-implementation) — clean I-JEPA implementation
+[ijepa-implementation](https://github.com/SharvenRane/ijepa-implementation): clean I-JEPA implementation
 
 </td>
 </tr>
@@ -72,26 +72,26 @@ interests  : SSL pretraining · medical AI · vision-language · efficient infer
 
 **Vision-Language**
 
-[llava-medical-vqa](https://github.com/SharvenRane/llava-medical-vqa) — LLaVA fine-tuned for radiology visual Q&A
+[llava-medical-vqa](https://github.com/SharvenRane/llava-medical-vqa): LLaVA fine-tuned for radiology visual Q&A
 
-[clip-finetuning](https://github.com/SharvenRane/clip-finetuning) — domain-specific CLIP/SigLIP fine-tuning with zero-shot evaluation
+[clip-finetuning](https://github.com/SharvenRane/clip-finetuning): domain-specific CLIP/SigLIP fine-tuning with zero-shot evaluation
 
-[radiology-report-generator](https://github.com/SharvenRane/radiology-report-generator) — automated report generation from chest X-rays
+[radiology-report-generator](https://github.com/SharvenRane/radiology-report-generator): automated report generation from chest X-rays
 
-[vlm-comparison](https://github.com/SharvenRane/vlm-comparison) — LLaVA vs InternVL vs Qwen-VL vs PaLiGemma benchmarked
+[vlm-comparison](https://github.com/SharvenRane/vlm-comparison): LLaVA vs InternVL vs Qwen-VL vs PaLiGemma benchmarked
 
 </td>
 <td width="50%">
 
 **Computational Pathology**
 
-[whole-slide-image-pipeline](https://github.com/SharvenRane/whole-slide-image-pipeline) — OpenSlide to slide-level prediction, full MIL pipeline
+[whole-slide-image-pipeline](https://github.com/SharvenRane/whole-slide-image-pipeline): OpenSlide to slide-level prediction, full MIL pipeline
 
-[cancer-survival-prediction](https://github.com/SharvenRane/cancer-survival-prediction) — CLAM and TransMIL on TCGA for survival outcomes
+[cancer-survival-prediction](https://github.com/SharvenRane/cancer-survival-prediction): CLAM and TransMIL on TCGA for survival outcomes
 
-[pathology-foundation-models](https://github.com/SharvenRane/pathology-foundation-models) — UNI, CONCH, PLIP, Prov-GigaPath benchmarked
+[pathology-foundation-models](https://github.com/SharvenRane/pathology-foundation-models): UNI, CONCH, PLIP, Prov-GigaPath benchmarked
 
-[weakly-supervised-pathology](https://github.com/SharvenRane/weakly-supervised-pathology) — ABMIL, DSMIL, attention pooling compared
+[weakly-supervised-pathology](https://github.com/SharvenRane/weakly-supervised-pathology): ABMIL, DSMIL, attention pooling compared
 
 </td>
 </tr>
