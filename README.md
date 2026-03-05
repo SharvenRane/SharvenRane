@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d1b69,30:c94b4b,60:e96c19,100:f8b500&height=180&section=header&text=Sharven%20Rane&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20AI%20Researcher&descAlignY=52&descSize=16"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:b34700,50:e07b00,100:ffb347&height=180&section=header&text=Sharven%20Rane&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20AI%20Researcher&descAlignY=52&descSize=16"/>
 </div>
 
 <br/>
@@ -178,5 +178,5 @@ interests  : SSL pretraining · vision-language · generative models · efficien
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d1b69,30:c94b4b,60:e96c19,100:f8b500&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:b34700,50:e07b00,100:ffb347&height=100&section=footer"/>
 </div>
